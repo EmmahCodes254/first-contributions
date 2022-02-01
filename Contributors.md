@@ -2364,6 +2364,7 @@ Himanshu Dedha
 - [Juan Beri](https://github.com/janbri)
 - [Seb Snr](https://github.com/Sebsnr)
 - [Kevin Hendrix](https://github.com/khendrix12)
+- [Emma Donery](https://github.com/EmmahCodes254)
 - [Subhasish Panda](https://github.com/sp7infinity)
 - [Mohammad Jaradat](https://github.com/muhmadJaradat)
   [Mark](https://github.com/mkict)
